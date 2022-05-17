@@ -1,0 +1,17 @@
+Informações sobre aprendizado:
+
+Comandos para salvar os conteúdos no servidor local e clonar para o repositório remoto no GitHub.
+Realizar commits, comentários e visualizar o conteúdo pelo GitHub.
+
+Exemplos de comandos aprendidos:
+
+git log
+git push --tag
+git status
+git add .
+git commit -a
+git commit -m "informar alterações"
+git checkout HEAD <file>
+git checkout <branch>
+git branch -d <branch>
+git merge <branch>
